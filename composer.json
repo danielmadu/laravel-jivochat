@@ -1,0 +1,16 @@
+{
+    "name": "danielmadu/laravel-jivochat",
+    "description": "Custom Blade directive for JivoChat",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "danielmadu",
+            "email": "daniel.madureira.batista@gmail.com"
+        }
+    ],
+    "psr-4": {
+        "DanielMadu\\JivoChat\\": "src/"
+    },
+    "require": {}
+}
