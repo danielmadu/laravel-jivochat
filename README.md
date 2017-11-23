@@ -1,6 +1,6 @@
 # Laravel JivoChat Blade directive (Laravel 5 Package)
 
-## Instalation
+## Installation
 
 To install Laravel JivoChat you need run the follow command inside the path of your project:
 
