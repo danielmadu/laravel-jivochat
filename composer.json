@@ -14,5 +14,12 @@
             "DanielMadu\\JivoChat\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DanielMadu\\JivoChat\\JivoChatServiceProvider"
+            ]
+        }
+    }
 }
