@@ -9,8 +9,10 @@
             "email": "daniel.madureira.batista@gmail.com"
         }
     ],
-    "psr-4": {
-        "DanielMadu\\JivoChat\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "DanielMadu\\JivoChat\\": "src/"
+        }
     },
     "require": {}
 }
