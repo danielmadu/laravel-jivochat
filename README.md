@@ -20,7 +20,7 @@ Run the command bellow to publish the configuration file `config/jivochat.php`:
 php artisan vendor:publish --provider="DanielMadu\JivoChat\JivoChatServiceProvider"
 ```
 
-Open the configuration file `config/jivochat` and configure with your widget_id located at the chat code provided by the JivoChat
+Open the configuration file `config/jivochat.php` and configure with your widget_id located at the chat code provided by the JivoChat
 
 # Usage
 
